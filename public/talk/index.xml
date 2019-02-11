@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Jorge Ribeiro</title>
-    <link>/talk/</link>
+    <link>https://jorgimello.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Jorge Ribeiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Jorge Ribeiro</copyright>
     <lastBuildDate>Fri, 08 Feb 2019 19:33:00 -0300</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jorgimello.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
