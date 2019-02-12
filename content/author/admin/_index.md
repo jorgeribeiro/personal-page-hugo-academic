@@ -6,7 +6,7 @@ name = "Jorge Ribeiro"
 superuser = true
 
 # Role/position
-role = "Full-stack Developer"
+role = "Full Stack Developer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -21,8 +21,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Software Engineering",
-  "Convolutional Neural Networks",
-  "Computer Vision"
+  "Web Development",  
+  "Convolutional Neural Networks"
 ]
 
 # List qualifications (such as academic degrees)
