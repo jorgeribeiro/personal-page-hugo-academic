@@ -4,7 +4,7 @@ widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Projects"
-subtitle = ""
+subtitle = "Projects I work on my spare time"
 
 # Order that this section will appear in.
 weight = 50

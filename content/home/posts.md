@@ -6,10 +6,10 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "Just thoughts and stuff"
 
 # Number of recent posts to list.
-count = 5
+count = 3
 
 # View.
 #   1 = List
