@@ -72,5 +72,8 @@ interests = [
 
 I am Jorge and welcome to my personal page.
 
-As you can see, it is still in development. Some informations are not correct and I am working to make it awesome!
+As you can see, it is still in development. Some informations are not correct and I am working hard to make it awesome!
 Come back later, ok?
+
+<b>[AOS LEITORES DA LÍNGUA PORTUGUESA / pt-br]</b> </br>
+Também irei fornecer uma versão em português desta página e dos posts, após finalizá-lo.
