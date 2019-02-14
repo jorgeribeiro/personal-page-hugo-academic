@@ -13,7 +13,7 @@ role = "Full Stack Developer"
 organizations = []
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "In love with building new things using interesting stuff."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""

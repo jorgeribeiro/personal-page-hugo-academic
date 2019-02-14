@@ -4,8 +4,24 @@
     
     <url>
     
+      <loc>https://jorgimello.github.io/project/tcc-cp/</loc>
+      <lastmod>2019-02-14T17:15:10-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jorgimello.github.io/project/planejador-cp-ufma/</loc>
+      <lastmod>2019-02-14T17:06:29-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jorgimello.github.io/author/admin/</loc>
-      <lastmod>2019-02-11T22:42:18-03:00</lastmod>
+      <lastmod>2019-02-13T17:17:13-03:00</lastmod>
     </url>
     
   
@@ -37,7 +53,7 @@
     <url>
     
       <loc>https://jorgimello.github.io/</loc>
-      <lastmod>2019-02-08T19:55:22-03:00</lastmod>
+      <lastmod>2019-02-14T17:15:10-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -47,6 +63,15 @@
     
       <loc>https://jorgimello.github.io/post/</loc>
       <lastmod>2019-02-08T19:33:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jorgimello.github.io/project/</loc>
+      <lastmod>2019-02-14T17:15:10-03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
