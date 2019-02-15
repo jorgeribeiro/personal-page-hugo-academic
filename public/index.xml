@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jorge Ribeiro</copyright>
-    <lastBuildDate>Thu, 14 Feb 2019 17:15:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 11:27:09 -0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sophia</title>
+      <link>https://jorgimello.github.io/project/sophia/</link>
+      <pubDate>Fri, 15 Feb 2019 11:27:09 -0300</pubDate>
+      
+      <guid>https://jorgimello.github.io/project/sophia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI Facial Expression Recognition</title>
@@ -20,7 +29,7 @@
     </item>
     
     <item>
-      <title>Planejador CP (UFMA)</title>
+      <title>Computer Science Planner</title>
       <link>https://jorgimello.github.io/project/planejador-cp-ufma/</link>
       <pubDate>Thu, 14 Feb 2019 17:06:29 -0300</pubDate>
       

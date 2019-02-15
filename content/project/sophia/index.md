@@ -1,6 +1,6 @@
 +++
-title = "Computer Science Planner"
-date = 2019-02-14T17:06:29-03:00
+title = "Sophia"
+date = 2019-02-15T11:27:09-03:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Web application to help Computer Science students from UFMA in selection of classes in each semester. Built with Laravel, Bulma and SQLite."
+summary = "Application that manages events and courses ocurring at Maranhão Audit Court. Features registration, attendance and certification."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +19,7 @@ summary = "Web application to help Computer Science students from UFMA in select
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jorgimello/planejador-cp-ufma"
+external_link = "https://www6.tce.ma.gov.br/sophia/"
 
 # Links (optional).
 url_pdf = ""
