@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Application that manages events and courses ocurring at Maranhão Audit Court. Features registration, attendance and certification."
+summary = "Application that manages events and courses ocurring at Maranhão Court of Accounts. Features registration, attendance and certification."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
