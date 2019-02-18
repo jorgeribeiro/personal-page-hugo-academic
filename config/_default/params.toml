@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "joorgemelo@gmail.com"
-phone = "+55 98 98234 1517"
+phone = ""
 address = "São Luís - MA / Brazil"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours

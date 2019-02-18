@@ -21,7 +21,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Software Engineering",
-  "Web Development",  
+  "Web Development",
+  "Mobile Development",
   "Convolutional Neural Networks"
 ]
 
@@ -72,8 +73,9 @@ interests = [
 
 I am Jorge and welcome to my personal page.
 
-As you can see, it is still in development. Some informations are not correct and I am working hard to make it awesome!
-Come back later, ok?
+I am Full Stack Developer focused on web applications. In my career I have used several technologies to build web apps such as Java, PHP, Laravel, Bootstrap, Bulma, Javascript, Vue.js, Angular and much more. I use my spare time to learn new technologies and build useful things for myself and for people in general. I have also some interest in Mobile Development.
+
+Besides my life as Developer, I also have background with Machine Learning, using Python aside with Keras and TensorFlow. I have worked on a few projects and have special ability with Facial Expression Recognition (FER).
 
 <b>[AOS LEITORES DA LÍNGUA PORTUGUESA / pt-br]</b> </br>
-Também irei fornecer uma versão em português desta página e dos posts, após finalizá-lo.
+Irei fornecer uma versão em português desta página e dos posts, após finalizá-lo.
