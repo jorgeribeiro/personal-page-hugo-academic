@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Ribeiro on Jorge Ribeiro</title>
+    <link>https://jorgimello.github.io/pt/</link>
+    <description>Recent content in Jorge Ribeiro on Jorge Ribeiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Jorge Ribeiro</copyright>
+    <atom:link href="/pt/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

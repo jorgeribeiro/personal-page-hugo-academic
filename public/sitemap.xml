@@ -1,118 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/project/sophia/</loc>
-      <lastmod>2019-02-15T11:38:35-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/project/tcc-cp/</loc>
-      <lastmod>2019-02-14T17:28:15-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/project/planejador-cp-ufma/</loc>
-      <lastmod>2019-02-15T11:33:36-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/author/admin/</loc>
-      <lastmod>2019-02-14T17:25:20-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/authors/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/</loc>
-      <lastmod>2019-02-15T11:38:35-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/post/</loc>
-      <lastmod>2019-02-08T19:33:00-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/project/</loc>
-      <lastmod>2019-02-15T11:38:35-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/publication/</loc>
-      <lastmod>2019-02-08T19:33:00-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/talk/</loc>
-      <lastmod>2019-02-08T19:33:00-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jorgimello.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://jorgimello.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2019-02-15T11:38:35-03:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://jorgimello.github.io/pt/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

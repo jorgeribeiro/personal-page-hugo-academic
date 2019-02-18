@@ -78,4 +78,4 @@ I am Full Stack Developer focused on web applications. In my career I have used 
 Besides my life as Developer, I also have background with Machine Learning, using Python aside with Keras and TensorFlow. I have worked on a few projects and have special ability with Facial Expression Recognition (FER).
 
 <b>[AOS LEITORES DA LÍNGUA PORTUGUESA / pt-br]</b> </br>
-Irei fornecer uma versão em português desta página e dos posts, após finalizá-lo.
+Irei fornecer uma versão em português desta página e dos posts, após finalizá-lo. A opção de tradução já pode ser encontrada no menu superior, mas o conteúdo ainda não foi completamente traduzido.
