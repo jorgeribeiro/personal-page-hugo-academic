@@ -5,8 +5,37 @@
     <link>https://jorgimello.github.io/pt/</link>
     <description>Recent content in Jorge Ribeiro on Jorge Ribeiro</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
     <copyright>&amp;copy; Jorge Ribeiro</copyright>
+    <lastBuildDate>Fri, 15 Feb 2019 11:27:09 -0300</lastBuildDate>
     <atom:link href="/pt/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sophia</title>
+      <link>https://jorgimello.github.io/pt/project/sophia/</link>
+      <pubDate>Fri, 15 Feb 2019 11:27:09 -0300</pubDate>
+      
+      <guid>https://jorgimello.github.io/pt/project/sophia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Facial Expression Recognition</title>
+      <link>https://jorgimello.github.io/pt/project/tcc-cp/</link>
+      <pubDate>Thu, 14 Feb 2019 17:15:10 -0300</pubDate>
+      
+      <guid>https://jorgimello.github.io/pt/project/tcc-cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planejador CP (UFMA)</title>
+      <link>https://jorgimello.github.io/pt/project/planejador-cp-ufma/</link>
+      <pubDate>Thu, 14 Feb 2019 17:06:29 -0300</pubDate>
+      
+      <guid>https://jorgimello.github.io/pt/project/planejador-cp-ufma/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -4,37 +4,52 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/project/sophia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/project/sophia/" hreflang="pt"/>
+    
       <loc>https://jorgimello.github.io/project/sophia/</loc>
-      <lastmod>2019-02-15T11:38:35-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
     </url>
     
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/project/tcc-cp/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/project/tcc-cp/" hreflang="pt"/>
     
       <loc>https://jorgimello.github.io/project/tcc-cp/</loc>
-      <lastmod>2019-02-14T17:28:15-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
     </url>
     
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/project/planejador-cp-ufma/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/project/planejador-cp-ufma/" hreflang="pt"/>
     
       <loc>https://jorgimello.github.io/project/planejador-cp-ufma/</loc>
-      <lastmod>2019-02-15T11:33:36-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
     </url>
     
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/author/admin/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/author/admin/" hreflang="pt"/>
     
       <loc>https://jorgimello.github.io/author/admin/</loc>
-      <lastmod>2019-02-18T20:52:44-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
     </url>
     
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/author/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/author/" hreflang="pt"/>
     
       <loc>https://jorgimello.github.io/author/</loc>
       <priority>0</priority>
@@ -70,7 +85,7 @@
       <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/" hreflang="pt"/>
     
       <loc>https://jorgimello.github.io/</loc>
-      <lastmod>2019-02-15T11:38:35-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -78,16 +93,22 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/post/" hreflang="pt"/>
+    
       <loc>https://jorgimello.github.io/post/</loc>
-      <lastmod>2019-02-08T19:33:00-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
     </url>
     
   
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/project/" hreflang="pt"/>
+    
       <loc>https://jorgimello.github.io/project/</loc>
-      <lastmod>2019-02-15T11:38:35-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -106,16 +127,22 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/publication/" hreflang="pt"/>
+    
       <loc>https://jorgimello.github.io/publication/</loc>
-      <lastmod>2019-02-08T19:33:00-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
     </url>
     
   
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/talk/" hreflang="pt"/>
+    
       <loc>https://jorgimello.github.io/talk/</loc>
-      <lastmod>2019-02-08T19:33:00-03:00</lastmod>
+      <lastmod>2019-02-25T20:23:28-03:00</lastmod>
     </url>
     
   
