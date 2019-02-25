@@ -13,27 +13,27 @@ role = "Full Stack Developer"
 organizations = []
 
 # Short bio (displayed in user profile at end of posts)
-bio = "In love with building new things using interesting stuff."
+bio = "Apaixonado por construir novas ferramentas utilizando tecnologias interessantes."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Software Engineering",
-  "Web Development",
-  "Mobile Development",
-  "Convolutional Neural Networks"
+  "Engenharia de Software",
+  "Desenvolvimento Web",
+  "Desenvolvimento Mobile",
+  "Redes Neurais Convolucionais"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "BSc in Computer Science"
-  institution = "Federal University of Maranhão"
+  course = "Bacharel em Ciência da Computação"
+  institution = "Universidade Federal do Maranhão"
   year = 2018
 
 [[education.courses]]
-  course = "Exchange in Computer Science"
+  course = "Intercâmbio em Computer Science"
   institution = "Carroll University"
   year = 2016
 
@@ -71,8 +71,8 @@ interests = [
 
 +++
 
-I am Jorge and welcome to my personal page.
+Me chamo Jorge e seja bem vindo à minha página pessoal.
 
-I am Full Stack Developer focused on web applications. In my career I have used several technologies to build web apps such as Java, PHP, Laravel, Bootstrap, Bulma, Javascript, Vue.js, Angular and much more. I use my spare time to learn new technologies and build useful things for myself and for people in general. I have also some interest in Mobile Development.
+Sou um Full Stack Developer com ênfase em aplicações web. Na minha carreira utilizei diversas tecnologias para construir apps web como Java, PHP, Laravel, Boostrap, Bulma, Javascript, Vue.js, Angular dentre outras. Eu utilizo meu tempo livre para aprender novas tecnologias e construir coisas úteis para mim e para as pessoas em geral. Também tenho interesse em Desenvolvimento Mobile.
 
-Besides my life as a Developer, I also have background with Machine Learning, using Python along with Keras and TensorFlow. I have worked on a few projects and have special ability with Facial Expression Recognition (FER).
+Além da minha vida como Developer, também possuo experiência com Machine Learning, utilizando Python junto do Keras e TensorFlow. Trabalhei em alguns projetos e tenho habilidade especial com Reconhecimento de Expressões Faciais (FER).

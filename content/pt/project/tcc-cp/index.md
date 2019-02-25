@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "My undergraduate thesis. It uses CNNs to learn emotions from human faces. The hyperparameters are automatically tuned using meta learning."
+summary = "Meu TCC. Utiliza CNNs para aprender emoções de faces humanas. Os hiper-parâmetros são automaticamente otimizados utilizando meta-aprendizado."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

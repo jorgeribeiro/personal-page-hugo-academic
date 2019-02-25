@@ -1,5 +1,5 @@
 +++
-title = "Computer Science Planner"
+title = "Planejador CP (UFMA)"
 date = 2019-02-14T17:06:29-03:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Web application to help Computer Science students from UFMA in selection of classes in each semester. Built with Laravel, Bulma and SQLite."
+summary = "Aplicação Web que ajuda estudantes de Ciência da Computação da UFMA na seleção de turmas em cada semestre. Construído com Laravel, Bulma e SQLite."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

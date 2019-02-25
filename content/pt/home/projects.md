@@ -3,8 +3,8 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Projects"
-subtitle = "A few projects I've built"
+title = "Projetos"
+subtitle = "Alguns projetos que desenvolvi"
 
 # Order that this section will appear in.
 weight = 50
