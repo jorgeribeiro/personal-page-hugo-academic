@@ -4,6 +4,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/project/heart-disease-classifier/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://jorgimello.github.io/project/heart-disease-classifier/" hreflang="en"/>
+    
+      <loc>https://jorgimello.github.io/pt/project/heart-disease-classifier/</loc>
+      <lastmod>2019-05-29T21:05:41-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://jorgimello.github.io/pt/project/sophia/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="https://jorgimello.github.io/project/sophia/" hreflang="en"/>
     
@@ -41,7 +52,7 @@
       <xhtml:link rel="alternate" href="https://jorgimello.github.io/author/admin/" hreflang="en"/>
     
       <loc>https://jorgimello.github.io/pt/author/admin/</loc>
-      <lastmod>2019-02-25T20:43:10-03:00</lastmod>
+      <lastmod>2019-05-29T21:05:41-03:00</lastmod>
     </url>
     
   
@@ -85,7 +96,7 @@
       <xhtml:link rel="alternate" href="https://jorgimello.github.io/" hreflang="en"/>
     
       <loc>https://jorgimello.github.io/pt/</loc>
-      <lastmod>2019-02-25T20:43:10-03:00</lastmod>
+      <lastmod>2019-05-29T21:05:41-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -108,7 +119,7 @@
       <xhtml:link rel="alternate" href="https://jorgimello.github.io/project/" hreflang="en"/>
     
       <loc>https://jorgimello.github.io/pt/project/</loc>
-      <lastmod>2019-02-25T20:43:10-03:00</lastmod>
+      <lastmod>2019-05-29T21:05:41-03:00</lastmod>
       <priority>0</priority>
     </url>
     
