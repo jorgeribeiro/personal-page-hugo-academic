@@ -43,6 +43,10 @@ Prerequisites:
   
 4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
 
+5. To update the source of the public/ folder, just type:
+
+       hugo 
+
 ## License
 
 Copyright 2017 [George Cushen](https://georgecushen.com).
