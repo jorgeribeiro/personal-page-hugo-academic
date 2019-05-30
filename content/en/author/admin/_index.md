@@ -23,6 +23,7 @@ interests = [
   "Software Engineering",
   "Web Development",
   "Mobile Development",
+  "Deep Learning",
   "Convolutional Neural Networks"
 ]
 

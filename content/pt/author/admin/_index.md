@@ -23,6 +23,7 @@ interests = [
   "Engenharia de Software",
   "Desenvolvimento Web",
   "Desenvolvimento Mobile",
+  "Deep Learning",
   "Redes Neurais Convolucionais"
 ]
 

@@ -1,10 +1,10 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Experience"
-subtitle = ""
+subtitle = "More info about it can be found on my CV"
 
 # Order that this section will appear in.
 weight = 8
@@ -19,27 +19,30 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "IT Analyst"
+  company = "Equatorial Group"
+  company_url = "https://www.equatorialenergia.com.br/"
+  location = "Brazil"
+  date_start = "2019-03-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = "Automation of routines of the Corporante Legal Department. Data mining and data analysis."
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Full Stack Developer"
+  company = "Senior Team Projects and Solutions"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Brazil"
+  date_start = "2018-01-01"
+  date_end = "2019-02-28"
+  description = "Development of web applications to the Maranhão Audit Court."
+
+[[experience]]
+  title = "Intern"
+  company = "Maranhão Audit Court"
+  company_url = "http://site.tce.ma.gov.br/"
+  location = "Brazil"
+  date_start = "2017-07-01"
+  date_end = "2017-12-31"
+  description = "Development of applications to the Superior School of External Control (ESCEX)."
 
 +++
