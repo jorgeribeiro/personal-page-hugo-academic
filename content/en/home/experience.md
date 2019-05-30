@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Brazil"
   date_start = "2019-03-01"
   date_end = ""
-  description = "Automation of routines of the Corporante Legal Department. Data mining and data analysis."
+  description = "Automation of routines of the Legal Department. Also working with Data Mining and Data Science."
 
 [[experience]]
   title = "Full Stack Developer"
