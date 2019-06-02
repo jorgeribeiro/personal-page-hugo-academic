@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "An app built with Flask to predict heart disease based on symptoms and personal features. Also features an Angular frontend to visualize the prediction."
+summary = "An app built with Flask to predict heart disease based on informed features. Also features an Angular frontend to visualize the prediction."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

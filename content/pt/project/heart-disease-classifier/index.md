@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Classificador treinado para predizer chance de um indivíduo ter doença de coração, baseado em sintomas e características pessoais. Possui uma interface feita em Angular para visualizar a predição."
+summary = "Classificador treinado para predizer chance de um indivíduo ter doença de coração, baseado em características informadas. Possui uma interface feita em Angular para visualizar a predição."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

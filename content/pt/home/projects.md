@@ -4,7 +4,7 @@ widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Projetos"
-subtitle = "Alguns projetos que desenvolvi"
+subtitle = "Alguns projetos que desenvolvi. Outros podem ser encontrados em meu GitHub"
 
 # Order that this section will appear in.
 weight = 50

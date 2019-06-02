@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Brasil"
   date_start = "2019-03-01"
   date_end = ""
-  description = "Automação de rotinas da Gerência Jurídica. Também atuo com Mineração e Ciência de Dados."
+  description = "Automação de rotinas e desenvolvimento de aplicações para a Gerência Jurídica. Também atuo com Mineração e Ciência de Dados."
 
 [[experience]]
   title = "Desenvolvedor Full Stack"
