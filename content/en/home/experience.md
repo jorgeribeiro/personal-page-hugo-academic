@@ -20,12 +20,12 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "IT Analyst"
-  company = "Equatorial Group"
+  company = "Equatorial Energia Group"
   company_url = "https://www.equatorialenergia.com.br/"
   location = "Brazil"
   date_start = "2019-03-01"
   date_end = ""
-  description = "Automation of routines and development of apps for the Legal Department. Also working with Data Mining and Data Science."
+  description = "Automation of routines and app development for the Legal Department. Also working with Data Science."
 
 [[experience]]
   title = "Full Stack Developer"
