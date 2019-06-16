@@ -24,7 +24,7 @@ interests = [
   "Web Development",
   "Mobile Development",
   "Deep Learning",
-  "Convolutional Neural Networks"
+  "Data Science"
 ]
 
 # List qualifications (such as academic degrees)
@@ -76,4 +76,4 @@ I am Jorge and welcome to my personal page.
 
 I am Full Stack Developer focused on web applications. In my career I have used several technologies to build web apps such as Java, PHP, Laravel, Bootstrap, Bulma, Javascript, Vue.js, Angular and much more. I use my spare time to learn new technologies and build useful things for myself and for people in general. I have also some interest in Mobile Development.
 
-Besides my life as a Developer, I also have background with Machine Learning, using Python along with Keras and TensorFlow. I have worked on a few projects and have special ability with Facial Expression Recognition (FER).
+Besides my life as a Developer, I also have background with Machine Learning and Data Science, using Python along with Keras and TensorFlow. I have worked on a few projects and have special ability with Facial Expression Recognition (FER).
