@@ -74,6 +74,6 @@ interests = [
 
 Me chamo Jorge e seja bem vindo à minha página pessoal.
 
-Sou um Full Stack Developer com ênfase em aplicações web. Na minha carreira utilizei diversas tecnologias para construir apps web como Java, PHP, Laravel, Boostrap, Bulma, Javascript, Vue.js, Angular dentre outras. Eu utilizo meu tempo livre para aprender novas tecnologias e construir coisas úteis para mim e para as pessoas em geral. Também tenho interesse em Desenvolvimento Mobile.
+Sou um Full Stack Developer com ênfase em aplicações web. Na minha carreira utilizei diversas tecnologias para construir apps web como Java, PHP, Laravel, Boostrap, Bulma, Javascript, Vue.js, React, Angular dentre outras. Eu utilizo meu tempo livre para aprender novas tecnologias e construir coisas úteis para mim e para as pessoas em geral. Também tenho interesse em Desenvolvimento Mobile.
 
 Além da minha vida como Developer, também possuo experiência com Machine Learning e Data Science, utilizando Python junto do Keras e TensorFlow. Trabalhei em alguns projetos e tenho habilidade especial com Reconhecimento de Expressões Faciais (FER).
