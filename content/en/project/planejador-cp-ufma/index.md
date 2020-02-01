@@ -19,7 +19,7 @@ summary = "Web application to help Computer Science students from UFMA in select
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jorgimello/planejador-cp-ufma"
+external_link = "https://github.com/jorgeribeiro/planejador-cp-ufma"
 
 # Links (optional).
 url_pdf = ""

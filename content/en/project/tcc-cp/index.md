@@ -19,7 +19,7 @@ summary = "My undergraduate thesis. It uses CNNs to learn emotions from human fa
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jorgimello/meta-learning-facial-expression-recognition"
+external_link = "https://github.com/jorgeribeiro/meta-learning-facial-expression-recognition"
 
 # Links (optional).
 url_pdf = ""

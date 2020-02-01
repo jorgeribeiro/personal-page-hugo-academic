@@ -19,7 +19,7 @@ summary = "Classificador treinado para predizer chance de um indivíduo ter doen
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jorgimello/heart-disease-classifier"
+external_link = "https://github.com/jorgeribeiro/heart-disease-classifier"
 
 # Links (optional).
 url_pdf = ""

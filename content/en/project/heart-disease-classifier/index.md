@@ -19,7 +19,7 @@ summary = "An app built with Flask to predict heart disease based on informed fe
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jorgimello/heart-disease-classifier"
+external_link = "https://github.com/jorgeribeiro/heart-disease-classifier"
 
 # Links (optional).
 url_pdf = ""
